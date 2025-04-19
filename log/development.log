@@ -1,0 +1,28 @@
+Started GET "/" for 127.0.0.1 at 2025-04-19 22:14:53 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/secrenet/.rvm/gems/ruby-3.2.2/gems/railties-7.0.8.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/secrenet/.rvm/gems/ruby-3.2.2/gems/railties-7.0.8.7/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.8ms | Allocations: 633)
+Completed 200 OK in 40ms (Views: 12.0ms | ActiveRecord: 0.0ms | Allocations: 7382)
+
+
+Started GET "/" for 127.0.0.1 at 2025-04-19 22:24:55 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/secrenet/.rvm/gems/ruby-3.2.2/gems/railties-7.0.8.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/secrenet/.rvm/gems/ruby-3.2.2/gems/railties-7.0.8.7/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.4ms | Allocations: 488)
+Completed 200 OK in 22ms (Views: 8.0ms | ActiveRecord: 0.0ms | Allocations: 4302)
+
+
+Started GET "/" for 127.0.0.1 at 2025-04-19 22:25:01 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/secrenet/.rvm/gems/ruby-3.2.2/gems/railties-7.0.8.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/secrenet/.rvm/gems/ruby-3.2.2/gems/railties-7.0.8.7/lib/rails/templates/rails/welcome/index.html.erb (Duration: 4.4ms | Allocations: 272)
+Completed 200 OK in 9ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 905)
+
+
+Started GET "/" for 127.0.0.1 at 2025-04-19 22:38:12 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/secrenet/.rvm/gems/ruby-3.2.2/gems/railties-7.0.8.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/secrenet/.rvm/gems/ruby-3.2.2/gems/railties-7.0.8.7/lib/rails/templates/rails/welcome/index.html.erb (Duration: 28.4ms | Allocations: 488)
+Completed 200 OK in 63ms (Views: 41.2ms | ActiveRecord: 0.0ms | Allocations: 4241)
+
+
